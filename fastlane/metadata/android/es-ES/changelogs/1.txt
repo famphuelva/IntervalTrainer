@@ -1,0 +1,1 @@
+Primera versión: temporizador por fases y rondas, avisos con la pantalla apagada y velocidad por GPS opcional.

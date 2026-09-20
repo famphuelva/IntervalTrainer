@@ -1,0 +1,1 @@
+Temporizador de intervalos para correr, gimnasio o estudiar, con GPS opcional

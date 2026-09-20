@@ -1,0 +1,17 @@
+Temporizador de intervalos por fases y rondas. Sirve para correr y caminar por series, para entrenar en el gimnasio por tiempos o para estudiar por bloques.
+
+<b>Series a tu medida</b>
+Cada fase tiene nombre, color (caminar, correr o descanso) y duración en minutos y segundos. Puedes añadir, quitar y reordenar las fases y elegir cuántas rondas repetir.
+
+<b>Funciona con la pantalla apagada</b>
+El cronómetro sigue avisando con pitidos y vibración desde el bolsillo o un brazalete, y se controla desde la notificación.
+
+<b>Velocidad por GPS (opcional)</b>
+Muestra la velocidad actual, la media de la ronda actual, la de la anterior y la media total con la distancia. Se puede desactivar para gimnasio o estudio, y entonces no se usa el GPS.
+
+<b>Privado</b>
+Sin cuentas, sin anuncios, sin analítica y sin servicios de Google. Todo se guarda en el móvil.
+
+<b>Permisos</b>
+Ubicación: solo para calcular la velocidad, y solo mientras el cronómetro corre y la opción está activada. No se guarda ni se envía.
+Notificaciones: para el control del cronómetro.
