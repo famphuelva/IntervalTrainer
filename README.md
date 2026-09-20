@@ -25,6 +25,13 @@ Temporizador de intervalos para Android. Sirve para correr y caminar por series,
   <img src="docs/screenshots/editor-estudiar.png" width="220" alt="Editor de series para estudiar, con rondas">
 </p>
 
+**Para el gimnasio (por tiempos, sin GPS):**
+
+<p>
+  <img src="docs/screenshots/gimnasio.png" width="220" alt="Temporizador para el gimnasio">
+  <img src="docs/screenshots/editor-gimnasio.png" width="220" alt="Editor de series para el gimnasio, con rondas">
+</p>
+
 ## Instalación
 
 Descarga el APK de la sección [Releases](../../releases) e instálalo (Android 8.0 o superior). Tendrás que permitir la instalación desde orígenes desconocidos. Para recibir avisos de versiones nuevas puedes usar [Obtainium](https://github.com/ImranR98/Obtainium).
