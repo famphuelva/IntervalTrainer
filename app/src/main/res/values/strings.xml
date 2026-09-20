@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Entrenador de Intervalos</string>
+    <string name="notification_channel_name">Entrenamiento en curso</string>
+    <string name="notification_channel_description">Muestra la fase y el tiempo restante del entrenamiento por intervalos.</string>
+    <string name="action_pause">Pausar</string>
+    <string name="action_resume">Reanudar</string>
+    <string name="action_skip">Saltar</string>
+</resources>
