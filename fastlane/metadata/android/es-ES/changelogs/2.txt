@@ -1,0 +1,1 @@
+Preparación para F-Droid: sin metadatos de dependencias en el APK. La app no cambia.

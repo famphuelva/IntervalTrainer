@@ -1,0 +1,1 @@
+Better packaging for F-Droid: no dependency metadata in the APK. No changes to the app itself.

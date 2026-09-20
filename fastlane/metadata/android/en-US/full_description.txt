@@ -1,0 +1,19 @@
+Interval timer with configurable phases and rounds. Use it to run and walk in sets, to train at the gym by time, or to study in timed blocks.
+
+<b>Sets made to measure</b>
+Each phase has a name, a colour (walk, run or rest) and a duration in minutes and seconds. You can add, remove and reorder phases and choose how many rounds to repeat.
+
+<b>Works with the screen off</b>
+The timer keeps alerting you with beeps and vibration from your pocket or an armband, and can be controlled from the notification.
+
+<b>Speed by GPS (optional)</b>
+Shows your current speed, the average of the current round, of the previous one, and the overall average with the distance. It can be turned off for the gym or for studying, and then GPS is not used.
+
+<b>Private</b>
+No accounts, no ads, no analytics and no Google services. Everything stays on your phone.
+
+<b>Permissions</b>
+Location: only to compute speed, only while the timer runs and the option is on. It is never stored or sent.
+Notifications: for the timer controls.
+
+The app is in Spanish.

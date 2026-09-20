@@ -1,0 +1,1 @@
+First release: timer with phases and rounds, alerts with the screen off and optional GPS speed.

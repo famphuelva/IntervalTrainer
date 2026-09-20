@@ -13,8 +13,8 @@ android {
         applicationId = "com.papichulo.intervaltrainer"
         minSdk = 26
         targetSdk = 34
-        versionCode = 1
-        versionName = "1.0"
+        versionCode = 2
+        versionName = "1.0.1"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -50,6 +50,11 @@ android {
     }
     buildFeatures {
         compose = true
+    }
+    dependenciesInfo {
+        // F-Droid rejects the encrypted dependency blob AGP adds to APKs by default.
+        includeInApk = false
+        includeInBundle = false
     }
 }
 
