@@ -12,8 +12,9 @@ Temporizador de intervalos para Android. Sirve para correr y caminar por series,
 ## Capturas
 
 <p>
-  <img src="docs/screenshots/cronometro.png" width="260" alt="Cronómetro con la velocidad por GPS">
-  <img src="docs/screenshots/editor.png" width="260" alt="Editor de series">
+  <img src="docs/screenshots/cronometro.png" width="200" alt="Cronómetro con la velocidad por GPS">
+  <img src="docs/screenshots/estudiar.png" width="200" alt="Temporizador para estudiar, sin GPS">
+  <img src="docs/screenshots/editor.png" width="200" alt="Editor de series">
 </p>
 
 ## Instalación
