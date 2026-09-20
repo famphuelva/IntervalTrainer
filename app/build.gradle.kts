@@ -19,8 +19,21 @@ android {
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
 
+    signingConfigs {
+        val storeFile = providers.gradleProperty("INTERVAL_STORE_FILE").orNull
+        if (storeFile != null) {
+            create("release") {
+                this.storeFile = file(storeFile)
+                storePassword = providers.gradleProperty("INTERVAL_STORE_PASSWORD").get()
+                keyAlias = providers.gradleProperty("INTERVAL_KEY_ALIAS").get()
+                keyPassword = providers.gradleProperty("INTERVAL_KEY_PASSWORD").get()
+            }
+        }
+    }
+
     buildTypes {
         release {
+            signingConfigs.findByName("release")?.let { signingConfig = it }
             isMinifyEnabled = false
             proguardFiles(
                 getDefaultProguardFile("proguard-android-optimize.txt"),
