@@ -9,6 +9,13 @@ Temporizador de intervalos para Android. Sirve para correr y caminar por series,
 - **Velocidad por GPS (opcional):** muestra la velocidad actual, la media de la ronda actual, la de la anterior y la media total con la distancia. Se puede desactivar para gimnasio o estudio; entonces no se usa el GPS.
 - **Privado:** sin cuentas, sin anuncios, sin analítica y sin servicios de Google. Todo se guarda en tu móvil.
 
+## Capturas
+
+<p>
+  <img src="docs/screenshots/cronometro.png" width="260" alt="Cronómetro con la velocidad por GPS">
+  <img src="docs/screenshots/editor.png" width="260" alt="Editor de series">
+</p>
+
 ## Instalación
 
 Descarga el APK de la sección [Releases](../../releases) e instálalo (Android 8.0 o superior). Tendrás que permitir la instalación desde orígenes desconocidos. Para recibir avisos de versiones nuevas puedes usar [Obtainium](https://github.com/ImranR98/Obtainium).
